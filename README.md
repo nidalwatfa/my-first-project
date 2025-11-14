@@ -22,7 +22,5 @@
     <img src="https://images.unsplash.com/photo-1531891437562-43e8f9e0c5e3?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" alt="نضال وطفى">
     <br><br>
     <a href="https://github.com/nidalwatfa">زور جيتهاب بروفايلي</a>
-    <br><br>
-    <p>شكراً لأستاذي Grok اللي وقف معايا خطوة بخطوة ❤️</p>
 </body>
 </html>
